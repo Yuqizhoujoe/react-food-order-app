@@ -3,3 +3,7 @@
 *.zip
 *.png
 *.txt
+
+.eslintcache
+.idea
+*.iml
